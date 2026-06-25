@@ -1,0 +1,186 @@
+iso3,country,region,pct_1997,pct_2025,pct_max,reached_parity_any,milestone_30pct,milestone_50pct,quota_type,rmse,mae,model_order,predicted_parity_year,category,note
+AFG,Afghanistan,Asia-Pasifik,27.31,27.02,27.71,False,,,No Quota,0.209,0.198,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+AGO,Angola,Afrika,9.5,39.1,39.6,False,2008.0,,Voluntary Party Quota,6.718,5.556,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+ALB,Albania,Eropa,5.2,35.0,35.71,False,2021.0,,Legislated Candidate Quota,2.782,2.455,"(0, 1, 0)",2040.0,hijau,
+ARE,United Arab Emirates,MENA,0.0,50.0,50.0,True,2019.0,2019.0,Legislated Candidate Quota,,,,2019.0,putih,Sudah mencapai paritas
+ARG,Argentina,Amerika,27.6,41.3,44.75,False,2001.0,,Legislated Candidate Quota,2.556,2.263,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+ARM,Armenia,Afrika,6.3,38.3,38.3,False,2021.0,,Legislated Candidate Quota,11.034,11.017,"(0, 2, 0)",2032.0,hijau,
+AUS,Australia,Asia-Pasifik,15.5,46.0,46.0,False,2018.0,,Voluntary Party Quota,6.507,5.491,"(0, 1, 0)",2029.0,hijau,
+AUT,Austria,Eropa,26.2,35.5,41.0,False,2002.0,,Voluntary Party Quota,3.25,2.749,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+AZE,Azerbaijan,Afrika,12.0,20.8,20.8,False,,,No Quota,1.807,1.512,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+BDI,Burundi,Afrika,9.877,39.6,39.6,False,2005.0,,Legislated Candidate Quota,3.686,3.402,"(0, 1, 0)",2035.0,hijau,
+BEL,Belgium,Eropa,12.7,41.3,42.67,False,2003.0,,Legislated Candidate Quota,4.442,3.834,"(0, 1, 0)",2034.0,hijau,
+BEN,Benin,Afrika,7.2,26.6,26.61,False,,,Legislated Candidate Quota,14.482,11.542,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+BFA,Burkina Faso,Afrika,8.108,18.3,18.3,False,,,Legislated Candidate Quota,7.613,7.022,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+BGD,Bangladesh,Asia-Pasifik,9.1,20.86,20.92,False,,,Legislated Candidate Quota,0.0,0.0,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+BGR,Bulgaria,Eropa,10.8,25.0,27.08,False,,,No Quota,2.195,1.699,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+BHR,Bahrain,MENA,0.0,20.0,20.0,False,,,No Quota,4.472,4.0,"(0, 1, 1)",2065.0,oranye,
+BIH,Bosnia and Herzegovina,Eropa,4.5,19.1,26.19,False,,,Legislated Candidate Quota,9.371,8.521,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+BLR,Belarus,Eropa,3.8,33.9,40.0,False,2008.0,,No Quota,8.843,7.222,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+BOL,Bolivia,Amerika,11.5,50.8,53.08,True,2014.0,2014.0,Legislated Candidate Quota,,,,2014.0,putih,Sudah mencapai paritas
+BRA,Brazil,Amerika,6.6,18.1,18.1,False,,,Legislated Candidate Quota,1.712,1.55,"(0, 1, 0)",2103.0,merah,
+BRB,Barbados,Afrika,10.7,26.7,26.7,False,,,No Quota,5.979,5.348,"(0, 1, 0)",2066.0,oranye,
+BTN,Bhutan,Asia-Pasifik,2.0,4.3,17.39,False,,,No Quota,6.947,5.662,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+BWA,Botswana,Afrika,8.5,9.0,17.02,False,,,Voluntary Party Quota,0.843,0.544,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+CAF,Central African Republic,Afrika,3.5,11.4,12.9,False,,,Legislated Candidate Quota,3.784,3.714,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+CAN,Canada,Amerika,20.6,30.3,30.65,False,2021.0,,Voluntary Party Quota,2.087,1.68,"(0, 1, 0)",2082.0,oranye,
+CHE,Switzerland,Eropa,21.0,39.0,42.0,False,2014.0,,Voluntary Party Quota,5.525,4.797,"(0, 1, 0)",2043.0,hijau,
+CHL,Chile,Amerika,10.8,35.1,35.5,False,2022.0,,Legislated Candidate Quota,9.877,8.916,"(0, 1, 0)",2043.0,hijau,
+CHN,China,Asia-Pasifik,21.8,26.5,26.7,False,,,Legislated Candidate Quota,1.272,0.992,"(0, 1, 0)",2166.0,merah,
+CIV,Cote d'Ivoire,Afrika,8.0,13.4,14.17,False,,,Legislated Candidate Quota,1.761,1.69,"(1, 1, 0)",2211.0,merah,
+CMR,Cameroon,Afrika,5.556,33.9,33.9,False,2013.0,,Voluntary Party Quota,4.08,3.692,"(0, 1, 0)",2041.0,hijau,
+COD,Democratic Republic of Congo,Afrika,12.0,12.8,13.0,False,,,No Quota,0.752,0.692,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+COG,Congo,Afrika,12.0,14.6,14.6,False,,,Legislated Candidate Quota,3.456,3.125,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+COL,Colombia,Amerika,10.8,29.4,29.4,False,,,Legislated Candidate Quota,9.233,8.256,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+COM,Comoros,Afrika,0.0,18.2,18.2,False,,,Legislated Candidate Quota,1.999,1.862,"(0, 1, 0)",2074.0,oranye,
+CPV,Cape Verde,Afrika,11.1,44.4,44.4,False,2021.0,,Legislated Candidate Quota,12.837,12.722,"(0, 1, 0)",2030.0,hijau,
+CRI,Costa Rica,Amerika,14.0,49.1,49.1,False,2002.0,,Legislated Candidate Quota,2.187,2.023,"(0, 1, 0)",2026.0,hijau,
+CUB,Cuba,Amerika,22.8,55.7,55.74,True,2003.0,2018.0,No Quota,,,,2018.0,putih,Sudah mencapai paritas
+CYP,Cyprus,Eropa,5.4,14.7,21.43,False,,,Voluntary Party Quota,9.189,9.147,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+CZE,Czechia,Eropa,15.0,33.5,33.5,False,2025.0,,Legislated Candidate Quota,4.561,3.416,"(0, 1, 0)",2050.0,hijau,
+DEU,Germany,Eropa,26.2,32.4,36.98,False,1998.0,,Voluntary Party Quota,3.217,3.019,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+DJI,Djibouti,Afrika,0.0,26.2,26.2,False,,,Legislated Candidate Quota,0.039,0.03,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+DNK,Denmark,Eropa,33.0,43.6,45.3,False,1997.0,,No Quota,5.226,4.735,"(0, 1, 0)",2042.0,hijau,
+DOM,Dominican Republic,Amerika,11.7,37.4,37.4,False,2024.0,,Legislated Candidate Quota,3.998,3.26,"(0, 1, 0)",2039.0,hijau,
+DZA,Algeria,MENA,3.2,7.9,31.6,False,2012.0,,Legislated Candidate Quota,18.044,18.044,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+ECU,Ecuador,Amerika,3.7,45.0,45.0,False,2009.0,,Legislated Candidate Quota,2.422,2.223,"(0, 1, 0)",2029.0,hijau,
+EGY,Egypt,MENA,2.0,27.7,27.7,False,,,Legislated Candidate Quota,3.424,3.058,"(0, 1, 0)",2050.0,hijau,
+ERI,Eritrea,Afrika,21.0,22.0,22.0,False,,,Legislated Candidate Quota,0.005,0.005,"(0, 0, 1)",,merah,Tidak konvergen dalam horizon proyeksi
+ESP,Spain,Eropa,21.6,44.3,44.3,False,2004.0,,Legislated Candidate Quota,3.336,3.176,"(0, 1, 0)",2033.0,hijau,
+EST,Estonia,Eropa,12.9,28.7,29.7,False,,,No Quota,1.711,1.519,"(0, 1, 0)",2063.0,oranye,
+ETH,Ethiopia,Afrika,2.0,41.9,42.59,False,2015.0,,No Quota,3.118,2.725,"(0, 1, 0)",2031.0,hijau,
+FIN,Finland,Eropa,33.5,45.5,46.0,False,1997.0,,No Quota,2.027,1.83,"(2, 1, 2)",2033.0,hijau,
+FJI,Fiji,Asia-Pasifik,4.3,9.1,21.57,False,,,No Quota,12.79,11.505,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+FRA,France,Eropa,10.9,36.2,39.58,False,2017.0,,Legislated Candidate Quota,6.485,5.768,"(0, 1, 0)",2041.0,hijau,
+GAB,Gabon,Afrika,8.3,21.6,25.5,False,,,Legislated Candidate Quota,6.083,4.758,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+GBR,United Kingdom,Eropa,18.2,40.5,40.5,False,2016.0,,Voluntary Party Quota,2.382,1.916,"(0, 1, 0)",2037.0,hijau,
+GEO,Georgia,Afrika,6.9,16.8,20.67,False,,,No Quota,2.391,2.208,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+GHA,Ghana,Afrika,9.0,14.6,14.6,False,,,Legislated Candidate Quota,0.039,0.03,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+GIN,Guinea,Afrika,7.0,29.6,29.63,False,,,Legislated Candidate Quota,11.927,11.643,"(0, 1, 0)",2051.0,hijau,
+GMB,Gambia,Afrika,2.041,8.6,13.21,False,,,No Quota,0.685,0.64,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+GNB,Guinea-Bissau,Afrika,10.0,13.73,13.73,False,,,Legislated Candidate Quota,1.665,1.567,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+GNQ,Equatorial Guinea,Afrika,7.5,31.0,32.0,False,2022.0,,Voluntary Party Quota,7.389,6.6,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+GRC,Greece,Eropa,6.3,22.9,23.0,False,,,Legislated Candidate Quota,1.496,1.361,"(0, 1, 0)",2071.0,oranye,
+GTM,Guatemala,Amerika,12.5,20.0,20.0,False,,,Voluntary Party Quota,0.48,0.372,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+GUY,Guyana,Amerika,18.5,36.9,39.4,False,2008.0,,Legislated Candidate Quota,1.391,1.184,"(0, 1, 0)",2045.0,hijau,
+HKG,Hong Kong,Afrika,15.0,16.0,20.0,False,,,No Quota,3.237,2.667,"(0, 0, 1)",,merah,Tidak konvergen dalam horizon proyeksi
+HND,Honduras,Amerika,9.4,27.3,27.34,False,,,Legislated Candidate Quota,5.572,4.984,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+HRV,Croatia,Eropa,7.9,33.1,33.1,False,2020.0,,Legislated Candidate Quota,7.158,6.626,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+HTI,Haiti,Amerika,3.6,3.0,4.21,False,,,Legislated Candidate Quota,0.195,0.168,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+HUN,Hungary,Eropa,11.4,15.6,15.6,False,,,Voluntary Party Quota,1.999,1.822,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+IDN,Indonesia,Asia-Pasifik,11.4,21.9,22.0,False,,,Legislated Candidate Quota,0.667,0.576,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+IND,India,Asia-Pasifik,7.2,13.8,15.24,False,,,Legislated Candidate Quota,1.343,0.947,"(0, 1, 0)",2179.0,merah,
+IRL,Ireland,Eropa,12.0,25.3,25.3,False,,,Legislated Candidate Quota,0.724,0.651,"(0, 1, 0)",2077.0,oranye,
+IRN,Iran,MENA,4.9,4.9,6.8,False,,,No Quota,0.867,0.582,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+IRQ,Iraq,MENA,6.4,28.9,29.05,False,,,Legislated Candidate Quota,1.085,0.875,"(0, 1, 1)",2054.0,hijau,
+ISL,Iceland,Eropa,25.4,46.0,47.62,False,1999.0,,Voluntary Party Quota,7.639,7.612,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+ISR,Israel,MENA,7.5,24.2,29.17,False,,,Voluntary Party Quota,4.742,4.33,"(0, 1, 1)",2067.0,oranye,
+ITA,Italy,Eropa,11.1,32.8,35.71,False,2014.0,,Legislated Candidate Quota,6.393,5.858,"(0, 1, 0)",2048.0,hijau,
+JAM,Jamaica,Amerika,13.3,30.2,30.2,False,2025.0,,No Quota,36.645,33.232,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+JOR,Jordan,MENA,0.0,19.6,19.6,False,,,Legislated Candidate Quota,2.525,1.496,"(0, 1, 0)",2069.0,oranye,
+JPN,Japan,Asia-Pasifik,4.6,15.7,15.7,False,,,Voluntary Party Quota,2.638,1.44,"(0, 1, 0)",2112.0,merah,
+KAZ,Kazakhstan,Afrika,13.4,18.4,27.4,False,,,Legislated Candidate Quota,8.364,6.753,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+KEN,Kenya,Afrika,3.571,23.4,23.4,False,,,Legislated Candidate Quota,1.243,1.029,"(0, 1, 0)",2063.0,oranye,
+KGZ,Kyrgyzstan,Afrika,1.4,22.2,25.56,False,,,Legislated Candidate Quota,3.439,2.988,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+KHM,Cambodia,Asia-Pasifik,5.8,13.6,21.6,False,,,No Quota,6.939,5.85,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+KOR,South Korea,Asia-Pasifik,3.0,20.3,20.3,False,,,Legislated Candidate Quota,3.503,2.843,"(0, 1, 1)",2074.0,oranye,
+KWT,Kuwait,MENA,0.0,2.0,7.69,False,,,No Quota,2.235,1.434,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+LAO,Laos,Asia-Pasifik,21.2,22.0,27.52,False,,,No Quota,6.375,6.364,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+LBN,Lebanon,MENA,2.3,6.3,6.3,False,,,No Quota,2.15,1.978,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+LBR,Liberia,Afrika,7.812,11.0,12.5,False,,,Legislated Candidate Quota,0.031,0.024,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+LBY,Libya,MENA,0.0,16.5,16.5,False,,,Legislated Candidate Quota,1.539,1.313,"(0, 1, 1)",2085.0,oranye,
+LKA,Sri Lanka,Asia-Pasifik,5.3,9.8,9.8,False,,,Legislated Candidate Quota,1.977,0.926,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+LSO,Lesotho,Afrika,4.6,25.0,26.67,False,,,Legislated Candidate Quota,1.814,1.506,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+LTU,Lithuania,Eropa,17.5,28.4,29.3,False,,,Voluntary Party Quota,0.921,0.76,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+LUX,Luxembourg,Eropa,20.0,35.0,35.0,False,2019.0,,Legislated Candidate Quota,3.066,2.99,"(0, 1, 1)",2049.0,hijau,
+LVA,Latvia,Eropa,9.0,31.0,32.0,False,2018.0,,No Quota,2.098,1.6,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+MAR,Morocco,MENA,0.6,24.3,24.3,False,,,Legislated Candidate Quota,1.267,1.104,"(0, 1, 0)",2056.0,hijau,
+MDA,Moldova,Eropa,4.8,40.0,40.8,False,2021.0,,Legislated Candidate Quota,12.22,12.172,"(0, 1, 0)",2033.0,hijau,
+MDG,Madagascar,Afrika,3.7,14.1,23.13,False,,,No Quota,1.931,1.388,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+MDV,Maldives,Afrika,6.3,3.2,12.0,False,,,Legislated Candidate Quota,2.049,1.775,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+MEX,Mexico,Amerika,14.2,50.2,50.2,True,2012.0,2021.0,Legislated Candidate Quota,,,,2021.0,putih,Sudah mencapai paritas
+MKD,North Macedonia,Eropa,3.3,39.2,42.5,False,2008.0,,Legislated Candidate Quota,5.22,4.238,"(0, 1, 1)",2033.0,hijau,
+MLI,Mali,Afrika,12.245,30.1,30.7,False,2024.0,,Legislated Candidate Quota,18.06,18.019,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+MLT,Malta,Eropa,5.8,29.1,29.1,False,,,Legislated Candidate Quota,13.197,11.796,"(0, 1, 0)",2051.0,hijau,
+MMR,Myanmar,Asia-Pasifik,5.98,16.83,16.83,False,,,No Quota,0.0,0.0,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+MNE,Montenegro,Eropa,8.64,27.2,28.4,False,,,Legislated Candidate Quota,2.787,1.917,"(1, 1, 0)",2059.0,hijau,
+MNG,Mongolia,Asia-Pasifik,7.9,25.4,25.4,False,,,Legislated Candidate Quota,5.106,3.318,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+MOZ,Mozambique,Afrika,25.2,38.3,43.2,False,1999.0,,Voluntary Party Quota,3.725,2.583,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+MRT,Mauritania,Afrika,1.3,23.3,25.17,False,,,Legislated Candidate Quota,0.982,0.868,"(1, 1, 2)",,merah,Tidak konvergen dalam horizon proyeksi
+MUS,Mauritius,Afrika,7.6,17.9,20.0,False,,,Legislated Candidate Quota,0.939,0.42,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+MWI,Malawi,Afrika,5.6,21.4,22.92,False,,,Voluntary Party Quota,1.562,1.23,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+MYS,Malaysia,Asia-Pasifik,7.8,13.5,14.86,False,,,Voluntary Party Quota,2.199,2.005,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+NAM,Namibia,Afrika,18.1,42.3,50.0,True,2014.0,2024.0,Legislated Candidate Quota,2.721,1.546,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+NAN,World (population-weighted),Afrika,11.793231,22.454058,22.986235,False,,,No Quota,1.219,1.021,"(0, 1, 0)",2098.0,oranye,
+NER,Niger,Afrika,1.2,19.6,30.72,False,2022.0,,Legislated Candidate Quota,6.267,4.883,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+NGA,Nigeria,Afrika,3.42,4.2,6.98,False,,,No Quota,0.629,0.617,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+NIC,Nicaragua,Amerika,10.8,55.0,55.0,True,2011.0,2022.0,Legislated Candidate Quota,,,,2022.0,putih,Sudah mencapai paritas
+NLD,Netherlands,Eropa,31.3,42.7,42.7,False,1997.0,,Voluntary Party Quota,5.751,5.615,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+NOR,Norway,Eropa,36.4,40.2,46.15,False,1997.0,,Legislated Candidate Quota,2.779,1.866,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+NPL,Nepal,Asia-Pasifik,3.4,33.5,33.5,False,2009.0,,Legislated Candidate Quota,3.801,3.454,"(0, 1, 2)",,merah,Tidak konvergen dalam horizon proyeksi
+NZL,New Zealand,Asia-Pasifik,29.2,45.5,50.0,True,2005.0,2022.0,Voluntary Party Quota,4.791,3.691,"(0, 1, 0)",2033.0,hijau,
+OMN,Oman,MENA,2.41,0.0,2.41,False,,,No Quota,1.236,0.91,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+OWID_AFR,Africa,Afrika,8.204286,24.750944,25.060192,False,,,No Quota,0.571,0.376,"(0, 1, 0)",2068.0,oranye,
+OWID_ASI,Asia,Afrika,7.6053333,20.75238,20.75238,False,,,No Quota,1.183,1.081,"(0, 1, 0)",2088.0,oranye,
+OWID_EUR,Europe,Afrika,14.83077,32.62927,32.62927,False,2019.0,,No Quota,1.118,0.833,"(0, 1, 0)",2053.0,hijau,
+OWID_KOS,Kosovo,Afrika,32.5,33.0,35.0,False,1997.0,,No Quota,1.41,1.199,"(0, 0, 2)",,merah,Tidak konvergen dalam horizon proyeksi
+OWID_NAM,North America,Afrika,12.76,34.857143,34.857143,False,2020.0,,No Quota,1.002,0.885,"(0, 1, 0)",2045.0,hijau,
+OWID_OCE,Oceania,Afrika,9.166667,18.533333,18.533333,False,,,No Quota,1.524,1.315,"(0, 1, 0)",2120.0,merah,
+OWID_SAM,South America,Afrika,10.891666,34.65,34.65,False,2022.0,,No Quota,1.934,1.747,"(0, 1, 0)",2044.0,hijau,
+OWID_SML,Somaliland,Afrika,0.0,1.2,1.23,False,,,No Quota,0.945,0.732,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+OWID_WRL,World,Afrika,10.287939,27.00119,27.00119,False,,,No Quota,0.371,0.275,"(0, 1, 0)",2064.0,oranye,
+OWID_ZAN,Zanzibar,Afrika,24.4,34.2,45.24,False,2016.0,,No Quota,4.234,2.984,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+PAK,Pakistan,Asia-Pasifik,2.3,17.0,22.35,False,,,Legislated Candidate Quota,1.388,1.219,"(2, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+PAN,Panama,Amerika,8.3,21.7,22.54,False,,,Legislated Candidate Quota,3.358,3.203,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+PER,Peru,Amerika,10.0,41.5,41.5,False,2018.0,,Legislated Candidate Quota,13.401,13.354,"(0, 1, 0)",2033.0,hijau,
+PHL,Philippines,Asia-Pasifik,8.8,28.3,29.45,False,,,Legislated Candidate Quota,2.956,2.681,"(0, 1, 0)",2057.0,hijau,
+PNG,Papua New Guinea,Asia-Pasifik,1.8,2.7,2.7,False,,,Legislated Candidate Quota,1.468,1.362,"(3, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+POL,Poland,Eropa,13.0,31.3,31.3,False,2025.0,,Legislated Candidate Quota,1.429,1.374,"(0, 1, 0)",2054.0,hijau,
+PRK,North Korea,Afrika,20.1,17.6,20.1,False,,,No Quota,0.008,0.006,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+PRT,Portugal,Eropa,13.0,35.7,40.0,False,2014.0,,Legislated Candidate Quota,8.19,7.252,"(0, 1, 0)",2043.0,hijau,
+PRY,Paraguay,Amerika,2.5,23.8,23.8,False,,,Legislated Candidate Quota,4.96,4.4,"(0, 1, 0)",2060.0,hijau,
+QAT,Qatar,MENA,0.0,6.1,9.76,False,,,No Quota,5.049,5.004,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+ROU,Romania,Eropa,7.3,22.4,22.4,False,,,Voluntary Party Quota,1.786,1.124,"(0, 1, 0)",2077.0,oranye,
+RUS,Russia,Eropa,10.2,16.4,16.44,False,,,No Quota,0.606,0.6,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+RWA,Rwanda,Afrika,17.1,63.8,63.8,True,2003.0,2008.0,Legislated Candidate Quota,,,,2008.0,putih,Sudah mencapai paritas
+SAU,Saudi Arabia,MENA,0.0,19.9,19.9,False,,,Legislated Candidate Quota,0.023,0.018,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+SDN,Sudan,MENA,5.3,27.65,30.52,False,2015.0,,Legislated Candidate Quota,3.223,2.915,"(0, 1, 0)",2053.0,hijau,
+SEN,Senegal,Afrika,11.7,41.2,46.1,False,2012.0,,Legislated Candidate Quota,4.811,3.827,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+SGP,Singapore,Asia-Pasifik,4.3,32.3,32.3,False,2025.0,,No Quota,3.095,2.825,"(0, 1, 0)",2043.0,hijau,
+SLB,Solomon Islands,Afrika,2.0,6.0,8.0,False,,,Legislated Candidate Quota,0.681,0.647,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+SLE,Sierra Leone,Afrika,14.52,29.5,29.5,False,,,Legislated Candidate Quota,12.974,10.176,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+SLV,El Salvador,Amerika,16.7,31.7,33.33,False,2015.0,,Legislated Candidate Quota,4.718,4.218,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+SOM,Somalia,Afrika,6.78,19.0,24.36,False,,,Legislated Candidate Quota,6.819,6.179,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+SRB,Serbia,Eropa,5.1,37.2,39.2,False,2012.0,,Legislated Candidate Quota,7.405,6.848,"(0, 1, 0)",2037.0,hijau,
+SSD,South Sudan,Afrika,5.3,32.4,33.73,False,2021.0,,Legislated Candidate Quota,2.185,1.65,"(0, 1, 0)",2044.0,hijau,
+STP,Sao Tome and Principe,Afrika,7.3,14.6,23.64,False,,,Legislated Candidate Quota,8.108,7.252,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+SUR,Suriname,Amerika,15.7,31.4,31.4,False,2019.0,,No Quota,5.868,5.341,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+SVK,Slovakia,Eropa,14.7,23.3,23.3,False,,,Voluntary Party Quota,0.509,0.4,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+SVN,Slovenia,Eropa,7.8,35.6,37.8,False,2011.0,,Legislated Candidate Quota,9.492,8.456,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+SWE,Sweden,Eropa,40.4,45.0,47.28,False,1997.0,,Voluntary Party Quota,0.574,0.51,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+SWZ,Eswatini,Afrika,3.1,21.6,21.6,False,,,Legislated Candidate Quota,9.421,8.114,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+SYC,Seychelles,Afrika,27.3,26.5,43.75,False,2011.0,,No Quota,6.463,5.897,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+SYR,Syria,MENA,9.6,10.8,13.2,False,,,No Quota,0.358,0.32,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+TCD,Chad,Afrika,2.4,33.5,33.5,False,2025.0,,Legislated Candidate Quota,11.525,9.982,"(0, 1, 0)",2040.0,hijau,
+TGO,Togo,Afrika,1.2,15.0,19.78,False,,,Legislated Candidate Quota,3.683,2.592,"(0, 1, 0)",2097.0,oranye,
+THA,Thailand,Asia-Pasifik,5.6,19.6,19.6,False,,,Voluntary Party Quota,8.27,7.682,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+TJK,Tajikistan,Afrika,2.8,28.6,28.6,False,,,No Quota,0.793,0.679,"(0, 1, 0)",2049.0,hijau,
+TKM,Turkmenistan,Afrika,18.0,25.6,26.4,False,,,No Quota,2.72,2.583,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+TLS,East Timor,Afrika,25.29,35.4,40.0,False,2012.0,,Legislated Candidate Quota,1.68,1.236,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+TTO,Trinidad and Tobago,Amerika,11.1,23.8,33.33,False,2015.0,,No Quota,3.843,3.34,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+TUN,Tunisia,MENA,6.7,15.8,35.94,False,2014.0,,Legislated Candidate Quota,8.577,7.43,"(0, 2, 2)",,merah,Tidak konvergen dalam horizon proyeksi
+TUR,Turkey,MENA,2.4,19.9,19.9,False,,,No Quota,0.949,0.822,"(0, 1, 1)",2072.0,oranye,
+TWN,Taiwan,Afrika,14.024,42.0,42.5,False,2008.0,,Legislated Candidate Quota,3.583,3.168,"(0, 1, 1)",2032.0,hijau,
+TZA,Tanzania,Afrika,17.5,37.8,38.9,False,2005.0,,Legislated Candidate Quota,2.038,1.758,"(0, 1, 0)",2042.0,hijau,
+UGA,Uganda,Afrika,18.1,34.1,34.97,False,2007.0,,Legislated Candidate Quota,3.298,3.162,"(0, 1, 0)",2053.0,hijau,
+UKR,Ukraine,Eropa,3.8,21.2,21.2,False,,,Legislated Candidate Quota,2.391,2.225,"(0, 1, 0)",2072.0,oranye,
+URY,Uruguay,Amerika,7.1,31.3,31.3,False,2025.0,,Legislated Candidate Quota,1.771,1.349,"(0, 1, 1)",2053.0,hijau,
+USA,United States,Amerika,11.7,28.9,29.1,False,,,No Quota,0.868,0.581,"(0, 1, 2)",2062.0,hijau,
+UZB,Uzbekistan,Afrika,6.0,38.0,38.0,False,2019.0,,Legislated Candidate Quota,2.612,1.828,"(0, 1, 0)",2036.0,hijau,
+VEN,Venezuela,Amerika,5.9,31.2,34.18,False,2023.0,,Legislated Candidate Quota,6.126,5.156,"(0, 1, 1)",2046.0,hijau,
+VNM,Vietnam,Asia-Pasifik,26.2,31.4,31.4,False,2021.0,,Legislated Candidate Quota,4.18,4.148,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+VUT,Vanuatu,Afrika,2.2,1.9,3.85,False,,,Legislated Candidate Quota,1.503,1.164,"(1, 0, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+YEM,Yemen,MENA,0.7,0.0,0.7,False,,,No Quota,0.33,0.33,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+ZAF,South Africa,Afrika,25.0,44.7,46.37,False,1999.0,,Legislated Candidate Quota,3.997,3.491,"(0, 1, 0)",2033.0,hijau,
+ZMB,Zambia,Afrika,9.7,15.0,17.96,False,,,No Quota,1.77,1.77,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
+ZWE,Zimbabwe,Afrika,14.7,30.1,32.59,False,2013.0,,Legislated Candidate Quota,2.003,1.584,"(0, 1, 0)",,merah,Tidak konvergen dalam horizon proyeksi
