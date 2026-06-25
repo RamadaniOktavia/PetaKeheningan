@@ -292,7 +292,7 @@ else:
 
 st.sidebar.markdown("---")
 st.sidebar.caption(
-    "Sumber: World Bank SG.GEN.PARL.ZS · IDEA Gender Quotas · "
+    "Sumber: Our World in Data Women in Parliaments· World Bank SG.GEN.PARL.ZS · IDEA Gender Quotas · "
     "Natural Earth. Model: `auto_arima` (pmdarima), fallback regresi linear."
 )
 
