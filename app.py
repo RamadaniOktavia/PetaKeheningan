@@ -1,24 +1,3 @@
-# ============================================================
-# 🗺️  Peta Keheningan Global
-# Analisis Spasio-Temporal Keterwakilan Perempuan di Parlemen
-# Nasional + Proyeksi Paritas Gender (ARIMA), 1997–2025
-# ============================================================
-# Dibangun dengan: Streamlit + Folium + Plotly
-#
-# CATATAN UNTUK PENGGUNA:
-# Skrip ini mengasumsikan struktur kolom berikut (sesuaikan
-# nama kolom di bagian "KONFIGURASI KOLOM" bila berbeda):
-#
-#   panel_data_clean.csv        : iso3, country, region, year,
-#                                  pct_women, quota_type
-#   map_data_with_forecast.csv  : iso3, country, region, quota_type,
-#                                  pct_2025, rmse, mae, model_order,
-#                                  predicted_parity_year, category, note
-#   countries.geojson           : Natural Earth (datasets/geo-countries),
-#                                  properti nama berbeda-beda antar versi
-#                                  rilis -> dideteksi otomatis di bawah.
-# ============================================================
-
 import json
 import os
 import time
@@ -34,7 +13,7 @@ from shapely.geometry import shape
 from streamlit_folium import st_folium
 
 # ------------------------------------------------------------
-# KONFIGURASI KOLOM (ubah di sini kalau nama kolom berbeda)
+# KONFIGURASI KOLOM 
 # ------------------------------------------------------------
 COL_ISO       = "iso3"
 COL_COUNTRY   = "country"
