@@ -1,0 +1,32 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+ENV/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+Notebook/.ipynb_checkpoints/
+
+# --- Streamlit ---
+.streamlit/secrets.toml
+
+# --- OS / editor files ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Logs & caches ---
+*.log
+.cache/
+.pytest_cache/
+
+# --- Environment variables (kalau ada API key dsb.) ---
+.env
